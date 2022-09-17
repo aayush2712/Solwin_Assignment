@@ -1,0 +1,22 @@
+[
+	{
+		"_id": "5d7a514b5d2c12c7449be050",
+		"name": "Uttar Pradesh",
+		"country":"5d7a514b5d2c12c7449be040"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be051",
+		"name": "Gujrat",
+		"country":"5d7a514b5d2c12c7449be040"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be052",
+		"name": "LA",
+		"country":"5d7a514b5d2c12c7449be041"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be053",
+		"name": "California",
+		"country":"5d7a514b5d2c12c7449be041"
+	}
+]
